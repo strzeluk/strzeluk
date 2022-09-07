@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Łukasz
-- 👀 I’m interested in becoming iOS full time developer
-- 🌱 I’m currently learning iOS / Swift / SwiftUI
+- 👀 I’m interested in becoming iOS / Flutter full time developer
+- 🌱 I’m currently learning Flutter / iOS / Swift / SwiftUI
 - 💞️ I’m looking to collaborate on interesting modern projects
 - 📫 You can find me: https://www.linkedin.com/in/lukasz-strzelecki/
 
